@@ -12,7 +12,7 @@ Make sure you have:
 * You need to change the username and password in the `app.js` file.
 
 ```sh
-git clone git@github.com:Lucifergene/Basic-ToDo-App.git
+git clone git@github.com:Kiit-Elabs/Web-Development-Training.git
 cd Basic-ToDo-App
 npm install
 node app
